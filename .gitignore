@@ -1,2 +1,6 @@
 venv/
 artifacts/
+logs/
+template.py
+src/textSummarizer/__pycache__
+src/textSummarizer/logging/__pycache__
